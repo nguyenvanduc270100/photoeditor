@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.unity3d.ads:unity-ads:4.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d776bc139185c81c79dd04d49b7c67b1/jetified-unity-ads-4.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf5dc7ba5571f26fea8853f3f196326/jetified-unity-ads-4.0.0/jars/libs/unity-scaradapter-1920.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf5dc7ba5571f26fea8853f3f196326/jetified-unity-ads-4.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf5dc7ba5571f26fea8853f3f196326/jetified-unity-ads-4.0.0/jars/libs/unity-scaradapter-common.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf5dc7ba5571f26fea8853f3f196326/jetified-unity-ads-4.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf5dc7ba5571f26fea8853f3f196326/jetified-unity-ads-4.0.0/jars/libs/unity-scaradapter-2000.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf5dc7ba5571f26fea8853f3f196326/jetified-unity-ads-4.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bf5dc7ba5571f26fea8853f3f196326/jetified-unity-ads-4.0.0/jars/libs/unity-scaradapter-1950.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.unity3d.ads/unity-ads/4.0.0/d583ff5362ba7d4e81ad52da5baa0087b8dfc1cc/unity-ads-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.unity3d.ads/unity-ads/4.0.0/4601fd8b72a4a417ce2f75a2fb2f1a999a075a81/unity-ads-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
